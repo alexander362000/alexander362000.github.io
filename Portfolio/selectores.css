@@ -1,0 +1,99 @@
+header {
+    padding: 20px;
+    background-color: rgba(71, 71, 71, 0.7);
+    border-radius: 20px;
+}
+
+.centrado {
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: 600;
+    font-style: oblique;
+    color: rgb(0, 214, 252);
+    font-size: 75px;
+    text-shadow: 10px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    padding-top: 5px;
+    background-color: rgb(41, 41, 41);
+
+}
+
+
+div.contacto {
+    margin-top: 10px;
+    background-color: rgba(71, 71, 71, 0.7);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.contacto p,
+a {
+    margin: 0%;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(201, 201, 201);
+    text-shadow: 1px 0.5px 0.5px rgb(0, 0, 0, 0.5);
+}
+
+
+#info {
+    display: flex;
+    text-indent: 10px;
+    color: rgba(201, 201, 201);
+    text-align: justify;
+}
+
+fieldset {
+    margin-top: 150px;
+}
+
+legend {
+    color: rgb(0, 214, 252);
+}
+
+.nivel {
+    background-color: rgb(214, 221, 109);
+    color: black;
+}
+
+
+.posicion {
+    width: 50%;
+    margin-right: 0px;
+    padding-right: 0%;
+}
+
+#noir img {
+    display: flex;
+    margin-top: 182px;
+    width: 900px;
+    height: 1400px;
+    border: 1px solid #ddd;
+    margin-left: 30px;
+}
+
+#rana img {
+    display: flex;
+    width: 919px;
+    height: 519px;
+    border: 1px solid #ddd;
+    margin-top: 200px;
+}
+
+#principal {
+    display: flex;
+}
+
+#formulario {
+    display: flex;
+    width: 100px;
+}
+
+#formulario a{
+    color: rgb(0, 214, 252);
+}
